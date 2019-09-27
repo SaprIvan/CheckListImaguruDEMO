@@ -1,0 +1,4 @@
+#Sun Jul 21 14:24:52 MSK 2019
+base.0=D\:\\Creation\\Android\\CheckListImaguru\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Global">#95a5a6</color>
+    <color name="California">#F39C12</color>
+    <color name="Nordic">#2D7D9A</color>
+    <color name="Forum">#3498db</color>
+    <color name="London">#C0392B</color>
+    <color name="Library">#16a085</color>
+    <color name="Baltic">#34495e</color>
+    <color name="New_York">#D35400</color>
+    <color name="Design_room">#f1c40f</color>
+    <color name="Coding_room">#D35400</color>
+    <color name="Madrid">#E53935</color>
+    <color name="Comments">#7f8c8d</color>
+
+
+
+    <array name="rooms">
+        <item>@color/Global</item>
+        <item>@color/California</item>
+        <item>@color/Nordic</item>
+        <item>@color/Forum</item>
+        <item>@color/London</item>
+        <item>@color/Library</item>
+        <item>@color/Baltic</item>
+        <item>@color/New_York</item>
+        <item>@color/Design_room</item>
+        <item>@color/Coding_room</item>
+        <item>@color/Madrid</item>
+        <item>@color/Comments</item>
+    </array>
+</resources>
